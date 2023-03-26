@@ -33,6 +33,6 @@
     "@actions/exit": "file:toolkit/actions-exit-0.0.0.tgz",
     "@actions/github": "file:toolkit/actions-github-0.0.0.tgz",
     "@actions/tool-cache": "file:toolkit/actions-tool-cache-0.0.0.tgz",
-    "@types/node": "^12.6.1"
+    "@types/node": "^16.0.0"
   }
 }
